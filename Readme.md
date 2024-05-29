@@ -20,16 +20,14 @@ The checkbox labelled *Adjust Linear* can be toggled. The segmented control labe
 <br />
 <br />
 
-## Development Plaftorm
-<br />
-<br />
+## Development Plaftorm:
 
 XCode 11.6, Swift 5.0
 <br />
 <br />
 
-Run-time target is set at macOS 10.15.x or later.
-
+## System Requirements:
+macOS 10.15.x or later.
 <br />
 <br />
 
