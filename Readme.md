@@ -28,7 +28,7 @@ XCode 11.6, Swift 5.0
 <br />
 <br />
 
-Deployment target is set at macOS 10.15.x
+Run-time target is set at macOS 10.15.x or later.
 
 <br />
 <br />
